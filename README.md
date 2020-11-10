@@ -3,4 +3,5 @@ Main analysis code for Rezayat et al.(2020) Frontotemporal Coordination Predicts
 its Local Neural Signatures
 
 functions:
-Code is costractede based on figure list of paper.
+Codes are based on figure list of paper in folder.
+
